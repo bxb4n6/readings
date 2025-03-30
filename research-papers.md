@@ -6,66 +6,41 @@ This is a curated list of research papers and academic articles that support my 
 
 ## Foundational Attribution & Forensics
 
-### A Fistful of Bitcoins: Characterizing Payments Among Men with No Names  
-*Sarah Meiklejohn et al. (2013)*  
-[Read the paper](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)  
-Seminal work introducing address clustering and transaction pattern analysis in Bitcoin. A must-read for any wallet attribution strategy.
-
-### On the Forensic Investigation of Cryptocurrency Transactions  
-*Conti et al. (2018)*  
-[DOI](https://doi.org/10.1016/j.diin.2018.12.001)  
-Surveys forensic analysis techniques in cryptocurrency tracing, with emphasis on investigation workflow and transaction modeling.
-
-### Deanonymizing Bitcoin Users  
-*Ron & Shamir (2012)*  
-[Read the paper](https://eprint.iacr.org/2012/248.pdf)  
-Early analysis of Bitcoin's public ledger to link addresses through graph-based clustering and transactional behavior.
+### A Fistful of Bitcoins: Characterizing Payments Among Men with No Names
+*Sarah Meiklejohn et al. (2013)*
+[Read the paper](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)
+This seminal work introduces heuristic clustering techniques to analyze Bitcoin transactions, providing insights into the traceability of pseudonymous payments.
 
 ---
 
 ## Cross-chain Laundering & Obfuscation
 
-### Tracing Transactions Across Cryptocurrency Ledgers  
-*Kalodner et al. (2018)*  
-[USENIX Security Paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)  
-Examines how funds move across multiple blockchains and analyzes laundering strategies via ShapeShift.
-
-### Mixcoin: Anonymity for Bitcoin with Accountability  
-*Bonneau et al. (2014)*  
-[Read the paper](https://cs-people.bu.edu/heilman/papers/mixcoin.pdf)  
-Presents one of the first academically described Bitcoin mixers, with a framework for holding participants accountable.
-
-### An Empirical Analysis of Anonymity in Zcash  
-*George Kappos et al. (2018)*  
-[arXiv Preprint](https://arxiv.org/abs/1709.03595)  
-Analyzes privacy guarantees in shielded vs. transparent transactions on Zcash, with takeaways for forensic analysts.
+### Tracing Transactions Across Cryptocurrency Ledgers
+*Haaroon Yousaf, George Kappos, and Sarah Meiklejohn (2019)*
+[Read the paper](https://www.usenix.org/system/files/sec19-yousaf.pdf)
+This paper examines methods for tracing transactions across different cryptocurrency ledgers, highlighting challenges and proposing solutions for cross-chain analysis.
 
 ---
 
 ## Legal Considerations & Forensic Reliability
 
-### Digital Evidence and the U.S. Criminal Justice System  
-*Eoghan Casey et al.*  
-Published in: Journal of Digital Forensics, Security and Law  
-Discusses standards and methods for collecting, preserving, and presenting digital evidence in criminal trials.
-
-### Reliability of Digital Evidence: Standards and Legal Considerations  
-*Various authors*  
-Source: Forensic science journals and legal reviews  
-Outlines Daubert criteria, reproducibility, and methodological scrutiny applied to digital forensics in courtrooms.
+### Safeguarding the Evidential Value of Forensic Cryptocurrency Investigations
+*Matthias Tarasiewicz and Fennie Wang (2019)*
+[Read the paper](https://www.sciencedirect.com/science/article/pii/S1742287619302567)
+This article discusses the importance of preserving the evidential integrity of cryptocurrency investigations and outlines best practices for forensic analysts.
 
 ---
 
 ## Industry Reports & Intelligence
 
-These high-impact whitepapers provide real-world case data and laundering patterns:
+- [IC3 2023 Cryptocurrency Fraud Report](https://www.ic3.gov/Media/PDF/AnnualReport/2023_IC3CryptocurrencyReport.pdf)
+  An annual report detailing trends and statistics in cryptocurrency-related fraud, providing valuable insights for investigators and policymakers.
 
-- [Chainalysis Crypto Crime Report (2024)](https://www.chainalysis.com/blog/crypto-crime-report/)  
-- [CipherTrace Cryptocurrency AML Report](https://ciphertrace.com/resources/)  
-- [Europol IOCTA – Internet Organized Crime Threat Assessment](https://www.europol.europa.eu/iocta)  
-- [NIST SP 800-86: Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/publications/detail/sp/800-86/final)
+- [Europol Spotlight: Cryptocurrencies—Tracing the Evolution of Criminal Finances](https://www.europol.europa.eu/cms/sites/default/files/documents/Europol%20Spotlight%20-%20Cryptocurrencies%20-%20Tracing%20the%20evolution%20of%20criminal%20finances.pdf)
+  This report explores the increasing use of cryptocurrencies in criminal activities and the challenges faced by law enforcement in tracing illicit financial flows.
 
 ---
 
-**Last updated:** March 2025  
-**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+*Last updated: March 30, 2025*
+
+*License: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)*
