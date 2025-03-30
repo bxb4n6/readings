@@ -3,7 +3,7 @@
 This is a curated list of research papers and academic articles that support my ongoing research in digital forensics, blockchain analysis, and expert witness preparation. These sources are foundational for building defensible methods in court and establishing technical credibility in the field.
 
 ### Blockchain Traceability
-<- a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf" target="_blank">A Fistful of Bitcoins: Characterizing Payments Among Men with No Names</a>
+- [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf)"
 *Sarah Meiklejohn et al. (2013)*
 This seminal work introduces heuristic clustering techniques to analyze Bitcoin transactions, providing insights into the traceability of pseudonymous payments.
 
