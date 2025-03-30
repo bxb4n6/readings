@@ -1,6 +1,6 @@
 # Research Papers & Academic Articles
 
-This is a curated list of academic papers, surveys, and technical reports that support my ongoing research in blockchain forensics, wallet attribution, cross-chain laundering, and expert witness preparation. These sources are foundational for building defensible methods in court and establishing technical credibility in the field.
+This is a curated list of research papers and academic articles that support my ongoing research in digital forensics, blockchain analysis, and expert witness preparation. These sources are foundational for building defensible methods in court and establishing technical credibility in the field.
 
 ---
 
