@@ -6,7 +6,7 @@ This is a curated list of research papers and academic articles that support my 
 
 ## Foundational Attribution & Forensics
 
-### <a href="A Fistful of Bitcoins: Characterizing Payments Among Men with No Names" target="_blank"> https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf</a>
+### <a href="https://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf" target="_blank">A Fistful of Bitcoins: Characterizing Payments Among Men with No Names</a>
 *Sarah Meiklejohn et al. (2013)*
 This seminal work introduces heuristic clustering techniques to analyze Bitcoin transactions, providing insights into the traceability of pseudonymous payments.
 
