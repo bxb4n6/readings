@@ -17,7 +17,7 @@ This seminal work introduces heuristic clustering techniques to analyze Bitcoin 
 
 ### Tracing Transactions Across Cryptocurrency Ledgers
 *Haaroon Yousaf, George Kappos, and Sarah Meiklejohn (2019)*
-[Read the paper](https://www.usenix.org/system/files/sec19-yousaf.pdf)
+[Read the paper](https://www.usenix.org/system/files/sec19-yousaf_0.pdf)
 This paper examines methods for tracing transactions across different cryptocurrency ledgers, highlighting challenges and proposing solutions for cross-chain analysis.
 
 ---
